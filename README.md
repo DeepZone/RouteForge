@@ -312,3 +312,4 @@ In the standard Docker setup, API calls are same-origin via frontend nginx (`/ap
 - docs/operations/change-case-workflow.md
 - docs/operations/watch-alerts.md
 - docs/architecture/providers.md
+> ☕ Gefällt dir dieses Projekt? [Unterstütze die Weiterentwicklung mit einem Kaffee.](https://buymeacoffee.com/mail9l)
