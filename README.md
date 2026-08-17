@@ -9,6 +9,7 @@
   <img src="https://img.shields.io/badge/status-stable-brightgreen" alt="Status">
   <img src="https://img.shields.io/badge/selfhosted-ready-success" alt="Selfhosted">
   <img src="https://img.shields.io/badge/read--only-routing%20safe-informational" alt="Read-only">
+  <a href="https://buymeacoffee.com/mail9l"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Unterst%C3%BCtzen-FFDD00?logo=buymeacoffee&logoColor=000000"></a>
 </p>
 
 <p align="center">
@@ -312,4 +313,3 @@ In the standard Docker setup, API calls are same-origin via frontend nginx (`/ap
 - docs/operations/change-case-workflow.md
 - docs/operations/watch-alerts.md
 - docs/architecture/providers.md
-<a href="https://buymeacoffee.com/mail9l"><img alt="Buy Me a Coffee" src="https://img.shields.io/badge/Buy%20me%20a%20coffee-Unterst%C3%BCtzen-FFDD00?logo=buymeacoffee&logoColor=000000"></a>
